@@ -1,4 +1,4 @@
-# HTLM and CSS exercises
+# HTML and CSS exercises
 
 Exercises to practice HTML and CSS skills.
 
