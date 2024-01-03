@@ -7,6 +7,6 @@ Exercises to practice HTML and CSS skills.
 
 [Basic CSS - Cafe Menu (freeCodeCamp)](https://fc9a8419-7292-4ed2-8009-5a02c921a1fb-00-scvt8pkghuon.picard.replit.dev/)
 
-[CSS Colors - Set of Colored Markers](https://d968317a-8104-49f0-a99c-be48744c0da6-00-3hbp6cqmjopdw.kirk.replit.dev/)
+[CSS Colors - Set of Colored Markers (freeCodeCamp)](https://d968317a-8104-49f0-a99c-be48744c0da6-00-3hbp6cqmjopdw.kirk.replit.dev/)
 
 
