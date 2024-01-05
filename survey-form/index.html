@@ -11,7 +11,7 @@
         <form id="survey-form">
             <fieldset>
             <label for="name" id="name-label">Name<input id="name" type="text" placeholder="Enter your name" required ></label>
-            <label for="email" id="email-label">Email<input id="email" type="email" placeholder="Enter your Email" required></label>  <!-- If you enter an email that is not formatted correctly, you will see an HTML5 validation error -->
+            <label for="email" id="email-label">Email<input id="email" type="email" placeholder="Enter your Email" required></label> 
             <label for="number" id="number-label">Age<input id="number" type="number" min="8" max="128" placeholder="Age"></label>  <!-- The number input should not accept non-numbers, either by preventing you from typing them or by showing an HTML5 validation error (depending on your browser). -->
             <!-- If you enter numbers outside the range of the number input, which are defined by the min and max attributes, you will see an HTML5 validation error -->
             </fieldset>
@@ -29,34 +29,34 @@
             </fieldset>
             <fieldset>
             <legend>Would you recommend freeCodeCamp to a friend?</legend>
-            <label>Definitely<input type="radio" value="" name=""></label>
-            <label>Maybe<input type="radio" value="" name=""></label>
-            <label>Not sure<input type="radio" value="" name=""></label>
+            <label>Definitely<input type="radio" value="recommend" name="recommend"></label>
+            <label>Maybe<input type="radio" value="recommend" name="recommend"></label>
+            <label>Not sure<input type="radio" value="recommend" name="recommend"></label>
             </fieldset>
             <fieldset>
             <label for="">What is your favorite feature of freeCodeCamp?
                 <select id="dropdown" name="dropdown">
-                    <option value="">Select an option</option value="">
-                    <option value="1">Challenges</option>
-                    <option value="2">Community</option>
-                    <option value="3">Open Source</option>
+                    <option value="">Select an option</option>
+                    <option value="challenges">Challenges</option>
+                    <option value="community">Community</option>
+                    <option value="open_source">Open Source</option>
                 </label>
             </fieldset>
             <fieldset>
             <label for="">What would you like to see improved?
                 <select id="dropdown" name="dropdown">
-                    <input class="inline" type="checkbox" value=""><option>Select an option</option>
-                    <input class="inline" type="checkbox" value=""><option value="1">Front-end Projects</option>
-                    <input class="inline" type="checkbox" value=""><option value="2">Back-end Projects</option>
-                    <input class="inline" type="checkbox" value=""><option value="3">Data Visualization</option>
-                    <input class="inline" type="checkbox" value=""><option value="4">Challenges</option>
-                    <input class="inline" type="checkbox" value=""><option value="5">Open Source Community</option>
-                    <input class="inline" type="checkbox" value=""><option value="6">Gitter help rooms</option>
-                    <input class="inline" type="checkbox" value=""><option value="7">Videos</option>
-                    <input class="inline" type="checkbox" value=""><option value="8">City Meetups</option>
-                    <input class="inline" type="checkbox" value=""><option value="9">Wiki</option>
-                    <input class="inline" type="checkbox" value=""><option value="10">Forum</option>
-                    <input class="inline" type="checkbox" value=""><option value="11">Additional Courses</option>
+                    <input class="inline" type="checkbox" value="0"><option>Select an option</option>
+                    <input class="inline" type="checkbox" value="1"><option value="1">Front-end Projects</option>
+                    <input class="inline" type="checkbox" value="2"><option value="2">Back-end Projects</option>
+                    <input class="inline" type="checkbox" value="3"><option value="3">Data Visualization</option>
+                    <input class="inline" type="checkbox" value="4"><option value="4">Challenges</option>
+                    <input class="inline" type="checkbox" value="5"><option value="5">Open Source Community</option>
+                    <input class="inline" type="checkbox" value="6"><option value="6">Gitter help rooms</option>
+                    <input class="inline" type="checkbox" value="7"><option value="7">Videos</option>
+                    <input class="inline" type="checkbox" value="8"><option value="8">City Meetups</option>
+                    <input class="inline" type="checkbox" value="9"><option value="9">Wiki</option>
+                    <input class="inline" type="checkbox" value="10"><option value="10">Forum</option>
+                    <input class="inline" type="checkbox" value="11"><option value="11">Additional Courses</option>
                 </label>
             </fieldset>
             <fieldset>
