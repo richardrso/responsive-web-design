@@ -4,7 +4,7 @@ Exercises to practice HTML and CSS skills.
 
 ## My Projects
 
-[HTML and CSS - Registration Form (FCC)](https://de171e44-68d8-494d-b317-314c0dfbb597-00-2u7ueb8j0b64e.kirk.replit.dev/)
+[HTML and CSS - Registration Form (FCC)](https://fantastic-cucurucho-c263db.netlify.app/)
 
 [Basic CSS - Cafe Menu (FCC)](https://3c00f157-147b-4ea3-9092-6e701588658a-00-2snc8fj66wjn6.worf.replit.dev/)
 
