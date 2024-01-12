@@ -10,4 +10,4 @@ Exercises to practice HTML and CSS skills.
 
 [CSS Colors - Set of Colored Markers (FCC)](https://inspiring-faun-679fc4.netlify.app/)
 
-[Basic HTML - Cat Photo App (FCC)](https://e400c1f0-ff5a-4a12-8c4c-b1e576678b58-00-5wayixwzladx.spock.replit.dev/)
+[Basic HTML - Cat Photo App (FCC)](https://inspiring-faun-679fc4.netlify.app/)
