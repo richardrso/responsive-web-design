@@ -1,6 +1,4 @@
-# HTML and CSS exercises
-
-Exercises to practice HTML and CSS skills.
+# Exercises to practice HTML/CSS and JavaScript skills.
 
 ## My Projects
 
